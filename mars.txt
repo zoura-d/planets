@@ -1,4 +1,11 @@
 Cold and dry but everything is my favorite color
 the two moons may be a problem for wolfman
 Third line saying something
+<<<<<<< HEAD
 Yet another line saying something else
+=======
+
+Hello I am on holiday 
+>>>>>>> 6960850757f077c3407df4bec878f50cd12a0a55
+
+No, you are not, still here I can see you ! 
